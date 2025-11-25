@@ -1,0 +1,3 @@
+a = 7
+ifa % 2 == 0:
+    print("even number")
